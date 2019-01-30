@@ -1,17 +1,2 @@
-Write a loop that makes seven calls to console.log to output the following triangle:
 
-#
-##
-###
-####
-#####
-######
-#######
 
-Solution
-
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
